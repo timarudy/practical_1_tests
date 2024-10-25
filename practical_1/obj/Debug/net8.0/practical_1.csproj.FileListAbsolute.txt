@@ -1,0 +1,14 @@
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\bin\Debug\net8.0\practical_1.exe
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\bin\Debug\net8.0\practical_1.deps.json
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\bin\Debug\net8.0\practical_1.runtimeconfig.json
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\bin\Debug\net8.0\practical_1.dll
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\bin\Debug\net8.0\practical_1.pdb
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\obj\Debug\net8.0\practical_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\obj\Debug\net8.0\practical_1.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\obj\Debug\net8.0\practical_1.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\obj\Debug\net8.0\practical_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\obj\Debug\net8.0\practical_1.dll
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\obj\Debug\net8.0\refint\practical_1.dll
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\obj\Debug\net8.0\practical_1.pdb
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\obj\Debug\net8.0\practical_1.genruntimeconfig.cache
+C:\Users\USER\RiderProjects\practical_1_tests\practical_1\obj\Debug\net8.0\ref\practical_1.dll
